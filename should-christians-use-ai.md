@@ -6,8 +6,9 @@ I'm a Christian software engineer with 15+ years of experience. I've been using 
 
 
 ## Strategy 1: Avoid asking opinions
->> Aim for verifiable facts and the boring.
->> Remain diligent. 
+> Aim for verifiable facts and the boring.
+>
+> Remain diligent. 
 
 When interacting with AI an important strategy is to avoid ambiguity and remain diligent no matter how confident AI sounds. Imagine you are using an advanced Google search, and gather facts that you can verify with links to resources or documentation for evidence. Even though AI is linguistically talented and is improving at its reasoning, the way it is most useful to humans without undermining our own critical thinking is its access to resources. Leave the reasoning for your own mind. Don't even trust the facts that it's surfacing. My wife and I almost got fooled into thinking camels have gallbladders recently (they don’t) and thankfully her sister fact checked for us! Double-check every critical fact by making sure there's a resource linked, and read the resource to evaluate the claim yourself. Then you’re treating AI like a Google search but more advanced–in that it's pointing you to resources more directly and hopefully saving you some time and finding more quality sources.
 
