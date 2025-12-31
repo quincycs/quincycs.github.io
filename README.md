@@ -1,3 +1,3 @@
-# A Quince at the World
 
-[link](some-blog.md)
+* [Should Christians use AI, and if so, how?](should-christians-use-ai.md)
+
