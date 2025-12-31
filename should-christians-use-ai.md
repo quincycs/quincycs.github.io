@@ -53,12 +53,14 @@ Claude
 2. Add instructions
 3. Copy/Paste the below instructions.
 4. Send a chat within this project , "Did Jesus Claim to be God?"
+5. Here's my conversation with Claude: [link](https://claude.ai/share/219555d1-ed30-4dbe-adc2-e2b7824cf210)
 
 ChatGPT
 1. Create a new project, select more options -> Project-only.
 2. Edit instructions
 3. Copy/Paste the below instructions.
 4. Send a chat within this project , "Did Jesus Claim to be God?"
+5. Here's my conversation with ChatGPT: [link](https://chatgpt.com/share/e/69559d25-6a2c-8002-9862-f224fc4d76fb)
 
 ### Instructions
 
