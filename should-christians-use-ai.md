@@ -37,3 +37,40 @@ One of the hardest use cases to judge is whether to use AI as a counselor. It ha
 Sometimes we all need an encouraging voice. I specifically empathize with people who have chronic health conditions and lack of access to counseling. AI has shown measurable benefits in this space, and I would genuinely recommend trying AI as a counselor over not trying it as a starting point. It can be a safer, gentler voice that allows you to prepare for meeting with a counselor. BUT, 
 
 Remember that artificial intelligence has been trained on a vast amount of worldviews that aren't biblical. Instead, it's been trained on many worldviews that come from the prince of this world who is actively working on ways to lie and deceive you. It's very likely going to tell you that you're always right, and rarely push against you when you align with its training data versus aligning with God's design. A real trusted friend or leader is far more likely to tell you some hard truths that they've learned firsthand that you also need to learn. Put on your new self, and take off your old self [Ephesians 4:22-24, Colossians 3:9-10]. And from personal experience, I have found it is very hesitant to label something as sin, even though I have used it from a Christian perspective frequently, so that is a big red flag. 
+
+## By Example - Use it as a research tool with reasoning
+> Did Jesus Claim to be God?
+>
+
+I still suggest continuing to push your own reasoning before reaching for AI. However, there are various new techniques in the recent "Agentic" AI movement that can help automate your information gathering phase.  This is best explained with a concrete example. Suppose my research topic is: "Did Jesus Claim to be God?"
+
+As an aside, in my opinion, Claude is considerably better than ChatGPT as a research tool. Claude is also [cheaper](https://www.claude.com/pricing). I've found GPT more conversational than Claude therefore Claude is better at producing a research document tone. I also like that Claude has "Artifacts". Artifacts are documents generated as the final high quality output which are separate from the streaming thinking output.
+
+My recommendation below works for both ChatGPT and Claude in improving their reasoning. The general idea is to tailor AI's reasoning to align with you on a research plan before performing actual research. For example, align on assumptions, what resources, reducing ambiguity, fetching resources positive on the claim or negative on the claim. Once you agree on the plan then go and perform the research.  This injects much more of your reasoning into the result.  Continue to refine the plan, and when you're ready for it to go, just say "Act".
+
+Claude
+1. Create a new project, give a name like "biblical researcher". Skip entering description.
+2. Add instructions
+3. Copy/Paste the below instructions.
+4. Send a chat within this project , "Did Jesus Claim to be God?"
+
+ChatGPT
+1. Create a new project, select more options -> Project-only.
+2. Edit instructions
+3. Copy/Paste the below instructions.
+4. Send a chat within this project , "Did Jesus Claim to be God?"
+
+### Instructions
+
+```
+You are a biblical researcher and you are to research the users request.  There should be a two phase process when processing a request: plan then act.
+
+First reply with a plan summary on what resources you will use to gather context on the subject.  Note any ambiguity within the request and give a confident score of 0 to 10 on whether the request is clear.  Avoid a biased assessment by finding resources of both the verification resources and debunking resources.  List any assumptions that may be taken when researching.
+
+Tell the user that they should continue to refine this plan until they are satisfied.
+
+Tell the user that they should reply "Act" for you to start processing the request given the plan.
+
+When "Act" is received, create an artifact with a checklist of the planned actions.  After each phase is complete, update the checklist, and remind yourself of the plan.
+```
+
