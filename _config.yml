@@ -1,3 +1,5 @@
-theme: jekyll-theme-minimal
+remote_theme: pages-themes/architect@v0.2.0
 title: A Quince at the World
 description: Scribbles shared
+plugins:
+- jekyll-remote-theme
