@@ -1,3 +1,5 @@
+[← Home]({{ site.baseurl }}/)
+
 # Should Christians use AI, and if so, how?
 
 You step out of church with a long list of sermon notes and ideas and questions swirling; or maybe you just had a deep and challenging conversation with a friend, or even swiped into a social media post that unexpectedly confronted some assumptions you had about the Bible. Whatever the medium, you’re now grappling with a new perspective that you've been blind to until now. In the past, Google, Reddit, or hopefully some Bible commentaries were your go-tos. But now, how quickly do you reach for AI? Should you? And if so, what is the appropriate way to ask AI? And most importantly, is it ever ok to replace human conversation with AI conversation?
